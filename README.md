@@ -2,7 +2,7 @@
 
 Welcome to the "Methods_in_Data_Science" repository! 
 
-Here you'll find a collection of all my works from Informatics courses at the University of Washington. <img src="uw_logo.png" alt="uw logo" width="50" height="50"> The repository has two main sections: **Core Methods and Advanced Methods.**
+Here you'll find a collection of all my works from Informatics courses at the University of Washington. <img src="uw_logo.png" alt="uw logo" width="100" height="50"> The repository has two main sections: **Core Methods and Advanced Methods.**
 
 In the Core Methods section, I cover essential topics such as data ingestion, cloud computing, statistical inference, machine learning, information visualization, and data ethics. Each topic is crucial to building a strong foundation in data science.
 
